@@ -136,6 +136,7 @@
     line-height: 35px;
     text-align: center;
     margin-top: auto;
+    color: #151414;
 }
 
 .web-description {
@@ -189,5 +190,81 @@
     color: #737272;
     margin: auto;
 
+
+}
+
+.smoke-img {
+    position: absolute;
+    width: 93px;
+    height: 93px;
+    left: 916px;
+    top: 1889.3px;
+
+}
+
+.smoke-heading {
+    position: absolute;
+    width: 218px;
+    height: 35px;
+    left: 853px;
+    top: 2006.3px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin: auto;
+
+}
+
+.smoke-description {
+    position: absolute;
+    width: 164px;
+    height: 29px;
+    left: 880px;
+    top: 2057.3px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    margin: auto;
+}
+
+.ecom-img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 1218px;
+    top: 1889.3px;
+}
+
+.ecom-heading {
+    position: absolute;
+    width: 174px;
+    height: 35px;
+    left: 1177px;
+    top: 2006.3px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin: auto;
+}
+
+.ecom-description {
+
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 1157px;
+    top: 2057.3px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    margin: auto;
 
 }
