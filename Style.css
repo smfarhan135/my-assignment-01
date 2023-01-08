@@ -101,3 +101,54 @@
     font-size: 16px;
     line-height: 26px;
 }
+
+/* Main-02 Styles */
+
+.myplans {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+
+}
+
+.web-img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 330px;
+    top: 1901px;
+}
+
+.web-heading {
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    left: 230px;
+    top: 2012.26px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    margin-top: auto;
+}
+
+.web-description {
+    position: absolute;
+    width: 177px;
+    height: 29px;
+    left: 277px;
+    top: 2063.26px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    margin-top: auto;
+
+}
