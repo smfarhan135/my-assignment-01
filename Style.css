@@ -1,6 +1,6 @@
 /* Banner Styles  */
 .header-title {
-    background-image: url('../images/banner/banner1.png');
+    background-image: url('./images/banner/banner1.png');
     background-size: contain;
     height: 808px;
     width: 1600px;
@@ -274,7 +274,7 @@
 
 
 .main-03-always {
-    background-image: url('/images/watch.png');
+    background-image: url('./images/watch.png');
     background-size: contain;
     position: absolute;
     width: 1140px;
