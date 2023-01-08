@@ -1,0 +1,52 @@
+/* Banner Styles  */
+.header-title {
+    background-image: url('/images/banner/banner1.png');
+    background-size: contain;
+    height: 808px;
+    width: 1600px;
+    background-repeat: no-repeat;
+}
+
+.title {
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+
+.title-description {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #444343;
+    margin-top: 24px;
+}
+
+.header-btn {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    background: #F15B22;
+    border-radius: 5px;
+}
+
+.btn-description {
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 32px;
+}
