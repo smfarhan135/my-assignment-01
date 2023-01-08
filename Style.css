@@ -152,3 +152,42 @@
     margin-top: auto;
 
 }
+
+.js-img {
+    position: absolute;
+    width: 92.96px;
+    height: 92.96px;
+    left: 631px;
+    top: 1895px;
+
+}
+
+.js-heading {
+    color: #151414;
+    position: absolute;
+    width: 156px;
+    height: 35px;
+    left: 599px;
+    top: 2006.3px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    margin: auto;
+}
+
+.js-description {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 586px;
+    top: 2057.3px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    margin: auto;
+
+
+}
