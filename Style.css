@@ -50,3 +50,54 @@
     color: #FFFFFF;
     margin-top: 32px;
 }
+
+/* Main-01 styles */
+
+.main-01 {
+    display: flex;
+}
+
+.women-img {
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+}
+
+.main-01-heading {
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1178px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.main-01-description {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 24px;
+    color: #444343;
+}
+
+.main-01-ulist {
+    position: absolute;
+    width: 315px;
+    height: 26px;
+    left: 896px;
+    top: 1416px;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
